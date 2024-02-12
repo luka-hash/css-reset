@@ -8,8 +8,8 @@ It is not meant to be copy-pased and forgotten about, but actually understood an
 
 ## Contributions
 
-If you notice a bug/error, raise and issue, create a PR, or just [mail me](mailto:luka@ljudi.org?subject=Hi&body=Dear%20Luka,). 
+If you notice a bug/error, raise and issue, create a PR, or just [mail me](mailto:luka@ljudi.org). 
 
 ## Licence
 
-This code is licensed under MIT licence (see LICENCE for details).
+This code is licensed under the terms of MIT licence (see LICENCE for details).
